@@ -13,9 +13,7 @@
     
     
     // Initiate the wowjs
-    $(window).on('load', function () {
-        new WOW().init();
-    });
+    new WOW().init();
     
     
     // Back to top button
